@@ -37,7 +37,7 @@ Analyzing Bank Loan trends from 2020-2021. Interactive Tableau dashboard can be 
 * Bad Loan Total Received Amount
 ## Summary of Insights
 ### Loan Funding and Cash Flow:
-* The average price of cars sold in 2021 was $28K, resulting in an average price decrease of 0.79% compared to last year's average price of cars sold. This is an insignificant decrease in average price and may indicate a relatively stable pricing environment.   
+* The steady monthly increase in the total funded amount warrants an investigation into the factors driving this growth. Specifically, the bank should explore the underlying causes of the preference for 36-month terms, such as borrower demographics or market conditions, to ensure these loans continue to meet borrower needs. Additionally, the positive cash flow suggests strong repayment behavior, but further analysis is needed to understand if this trend will continue, particularly in varying economic conditions or if new lending criteria are introduced.
 ### Borrower Financial Health:
 * An estimated number of #13K cars were sold in 2021, resulting in a 25% increase in cars sold compared to 2020. This increase is a strong indicator of increased demand. Investigate whether the supply chain was effectively managing this growth without significant stockouts, delays, or customer dissatisfaction and make adjustments accordingly.
 ### Good Loan vs. Bad Loan KPIs:
