@@ -1,6 +1,6 @@
 # Bank Loan Analysis (2020-2021)
 Analyzing Bank Loan trends from 2020-2021. Interactive Tableau dashboard can be found [here](https://public.tableau.com/views/CarDashboard_17254124985560/CarSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-![image](https://github.com/user-attachments/assets/b13f89c8-c894-4b41-848e-34da8859281e)
+![SUMMARY](https://github.com/user-attachments/assets/b13f89c8-c894-4b41-848e-34da8859281e)
 ![OVERVIEW](https://github.com/user-attachments/assets/a57354a8-acf5-435d-a05d-54b190d5432d)
 ![DETAILS](https://github.com/user-attachments/assets/eddd852e-1b12-4c00-ae56-e9dc38038a94)
 ## Key Performance Indicators (KPIs)
