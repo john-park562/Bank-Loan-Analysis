@@ -37,15 +37,20 @@ Analyzing Bank Loan trends from 2020-2021. Interactive Tableau dashboard can be 
 * Bad Loan Total Received Amount
 ## Summary of Insights
 ### Loan Funding and Cash Flow:
-* The steady monthly increase in the total funded amount warrants an investigation into the factors driving this growth. Specifically, the bank should explore the underlying causes of the preference for 36-month terms, such as borrower demographics or market conditions, to ensure these loans continue to meet borrower needs. Additionally, the positive cash flow suggests strong repayment behavior, but further analysis is needed to understand if this trend will continue, particularly in varying economic conditions or if new lending criteria are introduced.
-### Borrower Financial Health:
-* An estimated number of #13K cars were sold in 2021, resulting in a 25% increase in cars sold compared to 2020. This increase is a strong indicator of increased demand. Investigate whether the supply chain was effectively managing this growth without significant stockouts, delays, or customer dissatisfaction and make adjustments accordingly.
+* Loan Funding Growth: There’s a steady month-to-month increase in total funded amounts, indicating strong demand.
+* Loan Term Preference: 62.66% of loans are for 36-month terms, showing borrower preference for shorter repayment periods.
+* Cash Flow Strength: Total amount received ($473.1 million) exceeds total funded amount ($435.8 million), reflecting positive cash flow.
+### Borrower Financial Health (Debt-to-Income Ratio Analysis):
+* Charged-Off Loans (Avg DTI: 14.00%): Borrowers with charged-off loans have a slightly higher DTI than the portfolio average (13.33%), indicating that higher debt loads may contribute to defaults.
+* Current Loans (Avg DTI: 14.72%): Borrowers with current loans have the highest DTI. While they are still making payments, this group carries the most financial strain, suggesting potential future risk if their financial situation worsens.
+* Fully Paid Loans (Avg DTI: 13.17%): Borrowers who have fully paid off their loans have the lowest DTI, reflecting healthier financial profiles and better debt management, leading to successful loan repayment.
 ### Good Loan vs. Bad Loan KPIs:
-* Total sales made in 2021 were a staggering $371M, resulting in a sales growth of 24% since last year. Investigate what is driving this growth and capitalize on those factors. 
+* Good Loans Issued: 86.2%: The majority of loans issued fall under the "Good Loans" category (fully paid or current), indicating strong portfolio performance and effective loan management.
+* Bad Loans Issued: 13.8%: A smaller percentage of loans are categorized as "Bad Loans" (charged-off), but this figure highlights potential risk areas that could impact profitability.
 ## Recommendations & Next Steps
-* Investigate why total sales growth has seen such drastic growth and expand this analysis to include more years to determine whether this trend is pandemic-related or consistent across time. Consider expanding inventory or increasing marketing efforts to sustain this growth.
-*  Although the relatively small average price decrease this year may indicate a relatively stable pricing environment, monitor competitor pricing to ensure that this decrease isn't the start of a larger trend.
-*  Investigate whether the supply chain was able to meet the significant increase in car sales demand without any issues. Do any changes need to be made to our supply chain process if we are to manage a further increase in demand?  
+* Investigate what’s driving the growing demand for loans and the preference for 36-month terms by analyzing borrower demographics, market trends, and loan purposes. Additionally, assess repayment stability by studying borrower behavior across different economic conditions to ensure continued positive cash flow and sustainable growth.
+*  Look into tightening DTI limits, monitoring high-DTI current loans for risk, and offering incentives for low-DTI borrowers to reduce defaults and improve portfolio health.
+*  Maintain a high proportion of good loans by continuing robust credit assessments while focusing on reducing the percentage of bad loans through improved risk management and borrower support strategies. 
  
 
 
