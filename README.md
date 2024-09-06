@@ -20,11 +20,11 @@ Analyzing Bank Loan trends from 2020-2021. Interactive Tableau dashboard can be 
 * Loan Funding Growth: There’s a steady month-to-month increase in total funded amounts, indicating strong demand.
 * Loan Term Preference: 62.66% of loans are for 36-month terms, showing borrower preference for shorter repayment periods.
 * Cash Flow Strength: Total amount received ($473.1 million) exceeds total funded amount ($435.8 million), reflecting positive cash flow.
-### Borrower Financial Health (Debt-to-Income Ratio Analysis):
+### Borrower Financial Health:
 * Charged-Off Loans (Avg DTI: 14.00%): Borrowers with charged-off loans have a slightly higher DTI than the portfolio average (13.33%), indicating that higher debt loads may contribute to defaults.
 * Current Loans (Avg DTI: 14.72%): Borrowers with current loans have the highest DTI. While they are still making payments, this group carries the most financial strain, suggesting potential future risk if their financial situation worsens.
 * Fully Paid Loans (Avg DTI: 13.17%): Borrowers who have fully paid off their loans have the lowest DTI, reflecting healthier financial profiles and better debt management, leading to successful loan repayment.
-### Good Loan vs. Bad Loan KPIs:
+### Loan Portfolio Quality:
 * Good Loans Issued (86.2%): The majority of loans issued fall under the "Good Loans" category (fully paid or current), indicating strong portfolio performance and effective loan management.
 * Bad Loans Issued (13.8%): A smaller percentage of loans are categorized as "Bad Loans" (charged-off), but this figure highlights potential risk areas that could impact profitability.
 ## Recommendations & Next Steps
