@@ -3,7 +3,7 @@ Analyzing Bank Loan trends from 2020-2021. Interactive Tableau dashboard can be 
 ![SUMMARY](https://github.com/user-attachments/assets/b13f89c8-c894-4b41-848e-34da8859281e)
 ![OVERVIEW](https://github.com/user-attachments/assets/a57354a8-acf5-435d-a05d-54b190d5432d)
 ![DETAILS](https://github.com/user-attachments/assets/eddd852e-1b12-4c00-ae56-e9dc38038a94)
-## Key Performance Indicators (KPIs)
+## North Star Metrics and Dimensions
 **1. Loan Funding and Cash Flow:**
 * Total Funded Amount 
 * Total Amount Received
